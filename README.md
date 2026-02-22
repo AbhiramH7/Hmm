@@ -5,28 +5,41 @@
 - University Registration Number: TCR24CS002
 
 ## 📌 Project Description
-This project implements a Hidden Markov Model (HMM) using the Baum-Welch Algorithm (an Expectation-Maximization technique) to estimate model parameters.
+This project implements a Hidden Markov Model (HMM) using the Baum-Welch Algorithm, which is an Expectation-Maximization technique used to estimate unknown parameters of an HMM.
 
 ## ⚙️ Features
-- Forward Algorithm
-- Backward Algorithm
-- Baum-Welch Training
-- Random Initialization of Parameters
+- Forward Algorithm  
+- Backward Algorithm  
+- Baum-Welch Training  
+- Random Initialization of Model Parameters  
 
 ## 🛠️ Technologies Used
-- Python
-- NumPy
-  
+- Python  
+- NumPy  
+
 ## ▶️ How to Run
 
-1. Install numpy:
-2.  Run the program:
-   ## 📊 Output
-The program prints:
-- Transition Matrix (A)
-- Emission Matrix (B)
-- Initial State Probabilities (π)
+1. Install NumPy:
+   ```
+   pip install numpy
+   ```
+
+2. Run the program:
+   ```
+   python hmm_baum_welch.py
+   ```
+
+## 📊 Output
+The program outputs:
+- Transition Matrix (A)  
+- Emission Matrix (B)  
+- Initial State Probabilities (π)  
 
 ## 📁 Repository Structure
+```
+├── hmm_baum_welch.py
+├── README.md
+```
+
 ## 📚 References
-- Rabiner, L. R. (1989). A tutorial on Hidden Markov Models
+- Rabiner, L. R. (1989). A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition
