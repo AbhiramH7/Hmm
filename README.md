@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 - Name: Abhiram H
-- University Registration Number: [Your Reg No]
+- University Registration Number: TCR24CS002
 
 ## 📌 Project Description
 This project implements a Hidden Markov Model (HMM) using the Baum-Welch Algorithm (an Expectation-Maximization technique) to estimate model parameters.
