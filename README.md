@@ -4,6 +4,9 @@
 - Name: Abhiram H
 - University Registration Number: TCR24CS002
 
+## LIVE DEMO
+- https://baumwelch.netlify.app/
+
 ## 📌 Project Description
 This project implements a Hidden Markov Model (HMM) using the Baum-Welch Algorithm, which is an Expectation-Maximization technique used to estimate unknown parameters of an HMM.
 
